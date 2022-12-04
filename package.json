@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --testPathPattern=/Exercises",
-    "test-convert": "jest --testPathPattern=Exercises/convert.test.js",
-    "test-countBoomerangs": "jest --testPathPattern=Exercises/countBoomerangs.test.js",
+    "test-numInStr": "jest --testPathPattern=Exercises/numInStr.test.js",
+    "test-overlappingRectangles": "jest --testPathPattern=Exercises/overlappingRectangles.test.js",
     "test-primeFactorize": "jest --testPathPattern=Exercises/primeFactorize.test.js"
   },
   "author": "",
